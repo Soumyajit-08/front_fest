@@ -102,8 +102,7 @@ This project helped practice:
 
 GitHub: https://github.com/Soumyajit-08
 
-LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
-
+LinkedIn:www.linkedin.com/in/soumyajit-nag
 
 ## License
 
