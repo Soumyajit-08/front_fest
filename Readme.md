@@ -1,4 +1,4 @@
-## 📌 Project Overview
+## Project Overview
 
 Earth's Exhale is a static frontend website designed for a plant store. It provides a clean and user-friendly interface where users can browse featured plants, explore best-selling products, and read customer testimonials.
 
